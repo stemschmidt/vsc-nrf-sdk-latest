@@ -1,8 +1,7 @@
 {
-    "cortex-debug.JLinkGDBServerPath": "/opt/SEGGER/JLink/JLinkGDBServerCLExe",
     "cortex-debug.armToolchainPrefix": "arm-zephyr-eabi",
-    "cortex-debug.armToolchainPath": "/opt/toolchains/zephyr-sdk-0.17.2/arm-zephyr-eabi/bin/",
-    "cortex-debug.gdbPath": "/opt/toolchains/zephyr-sdk-0.17.2/arm-zephyr-eabi/bin/arm-zephyr-eabi-gdb",
+    "cortex-debug.armToolchainPath": "/opt/toolchains/zephyr-sdk-0.17.4/arm-zephyr-eabi/bin/",
+    "cortex-debug.gdbPath": "/opt/toolchains/zephyr-sdk-0.17.4/arm-zephyr-eabi/bin/arm-zephyr-eabi-gdb",
     "cmake.sourceDirectory": "/home/stefan/Projects/vsc-nrf-sdk-latest/application",
     "editor.formatOnSave": true
 }
